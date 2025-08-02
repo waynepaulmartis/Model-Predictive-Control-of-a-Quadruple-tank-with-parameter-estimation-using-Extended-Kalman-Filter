@@ -9,6 +9,4 @@
 ## Model Predictive Control
 
 
-## File Structure
-
 
